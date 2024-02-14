@@ -1,6 +1,6 @@
 # Galería Card
 
-https://marelycarcamo.github.io/galery-card/
+https://marelycarcamo.github.io/gallery-card/
 
 ## Descripción Técnica
 
